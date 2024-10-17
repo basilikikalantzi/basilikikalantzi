@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<div align="center">
+ <!--Credit for the animation to Etienne Jacob at https://github.com/Bleuje-->
+  <a href="https://bleuje.com/animationsite/" target="_blank"><img width ="80%" src ='/assets/Etienne_Jacob.gif'></a>
+</div>
 <!--
 **basilikikalantzi/basilikikalantzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
