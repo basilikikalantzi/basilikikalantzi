@@ -1,7 +1,11 @@
-<div align="center">
- <!--Credit for the animation to Etienne Jacob at https://github.com/Bleuje-->
-  <a href="https://bleuje.com/animationsite/" target="_blank"><img width ="70%" src ='/animation%20_prof.gif'></a>
-</div>
+<!--Credit for the animation to Etienne Jacob at https://github.com/Bleuje--> or "https://bleuje.com/animationsite/"
+<img align="right" alt="Coding" width="500" src="https://github.com/basilikikalantzi/basilikikalantzi/blob/main/animation%20_prof.gif">
+
+- 🔭 I’m currently studying **Computer Science** in **UoA**
+
+- 📫 How to reach me **basilikikalantzi0@gmail.com**
+
+
 <!--
 **basilikikalantzi/basilikikalantzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
